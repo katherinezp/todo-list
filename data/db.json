@@ -1,0 +1,21 @@
+{
+  "ids": {
+    "Todo": 13,
+    "TodoList": 3
+  },
+  "models": {
+    "Todo": {
+      "1": "{\"id\":1,\"title\":\"titulo1\",\"desc\":\"descripcion1\",\"isComplete\":true}",
+      "2": "{\"id\":2,\"title\":\"titulo2\",\"desc\":\"descripcion2\",\"isComplete\":true}",
+      "5": "{\"id\":5,\"title\":\"titulo1\",\"desc\":\"descripcion1\",\"isComplete\":true}",
+      "6": "{\"id\":6,\"title\":\"titulo1\",\"desc\":\"descripcion1\",\"isComplete\":true}",
+      "10": "{\"title\":\"tarea 1\",\"desc\":\"desc prueba\",\"isComplete\":false,\"todoListId\":1,\"id\":10}",
+      "11": "{\"title\":\"tarea 2\",\"desc\":\"desc 2 bla bla\",\"isComplete\":false,\"todoListId\":1,\"id\":11}",
+      "12": "{\"title\":\"tarea bla bla\",\"desc\":\"bla bla\",\"isComplete\":false,\"todoListId\":2,\"id\":12}"
+    },
+    "TodoList": {
+      "1": "{\"title\":\"grocery list\",\"id\":1}",
+      "2": "{\"title\":\"titulo prueba\",\"color\":\"verde\",\"id\":2}"
+    }
+  }
+}
